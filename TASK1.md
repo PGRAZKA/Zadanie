@@ -1,7 +1,7 @@
 **Scenariusz dotyczy** | Formularz rejestracyjny
 ------------ | -------------
 **Cel testu** | Sprawdzenie prawidłowego działania formularza
-**Sposób dostępu |
+**Sposób dostępu** |
 **Kroki w  scenariuszu** | odpowiedź systemu
 wpisz adres mailowy do którego masz dostęp
 wpisz hasło  w pole password
@@ -13,14 +13,14 @@ Sprawdź adres podany wcześniej e-mail | Przyszedł maila potwierdzający rejes
 **Scenariusz dotyczy** | Formularz rejestracyjny
 ------------ | -------------
 **Cel testu** | Sprawdzenie prawidłowego komunikowania o błędnym adresie e-mail
-**Sposób dostępu |
+**Sposób dostępu** |
 **Kroki w  scenariuszu** | odpowiedź systemu
 Wpisz adres mailowy bez znaku @ | powinna pojawić się informacja o błędnym adresie e-mail
 
 **Scenariusz dotyczy** | Formularz rejestracyjny
 ------------ | -------------
 **Cel testu** | Sprawdzenie prawidłowego działania fkomunikatu o wprowadzeniu różnych haseł
-**Sposób dostępu |
+**Sposób dostępu** |
 **Kroki w  scenariuszu** | odpowiedź systemu
 wpisz hasło w pole password
 wpisz hasło różne od poprzedniego | powinien wyświetlić się komunikat o różnych hasłach
@@ -34,6 +34,6 @@ wpisz 1 literę hasło w pole password | powinien wyświetlić się komunikat o 
 
 **Scenariusz dotyczy** | Formularz rejestracyjny
 ------------ | -------------
-**Cel testu** | Sprawdzenie prawidłowego działania komunikatu o wprowadzeniu zbyt krótkiego hasła
+**Cel testu** | Sprawdzenie prawidłowego działania komunikatu o wprowadzeniu zajęj już nazwy
 **Sposób dostępu** | Istnienie już nicku o tej samej nazwie w systemie
 wpisz nick który już został wcześniej zarejestrowany w polu Last Name | powinien wyświetlić się komunikat, że nick jest zajęty
