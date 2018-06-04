@@ -36,4 +36,5 @@ wpisz 1 literę hasło w pole password | powinien wyświetlić się komunikat o 
 ------------ | -------------
 **Cel testu** | Sprawdzenie prawidłowego działania komunikatu o wprowadzeniu zajęj już nazwy
 **Sposób dostępu** | Istnienie już nicku o tej samej nazwie w systemie
+**Kroki w  scenariuszu** | odpowiedź systemu
 wpisz nick który już został wcześniej zarejestrowany w polu Last Name | powinien wyświetlić się komunikat, że nick jest zajęty
