@@ -19,7 +19,7 @@ Wpisz adres mailowy bez znaku @ | powinna pojawić się informacja o błędnym a
 
 **Scenariusz dotyczy** | Formularz rejestracyjny
 ------------ | -------------
-**Cel testu** | Sprawdzenie prawidłowego działania fkomunikatu o wprowadzeniu różnych haseł
+**Cel testu** | Sprawdzenie prawidłowego działania komunikatu o wprowadzeniu różnych haseł
 **Sposób dostępu** |
 **Kroki w  scenariuszu** | odpowiedź systemu
 wpisz hasło w pole password
